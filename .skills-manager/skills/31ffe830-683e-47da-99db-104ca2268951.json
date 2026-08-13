@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31ffe830-683e-47da-99db-104ca2268951",
+  "path": "vue-patterns",
+  "path_key": "vue-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
