@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "919d915e-3d7d-4eb2-b7a6-afa97bc00aa8",
+  "path": "trellis-brainstorm",
+  "path_key": "trellis-brainstorm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c938fe46-3212-48da-be78-bb93a5c3a9e1",
+  "path": "trellis-finish-work",
+  "path_key": "trellis-finish-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

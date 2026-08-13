@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e21355e0-7ea6-4b22-87fa-64c24444ef9b",
+  "path": "trellis-continue",
+  "path_key": "trellis-continue",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

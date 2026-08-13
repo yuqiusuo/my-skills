@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4480d03a-713b-4e0a-b172-1ca5999b9fb3",
+  "path": "trellis-update-spec",
+  "path_key": "trellis-update-spec",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

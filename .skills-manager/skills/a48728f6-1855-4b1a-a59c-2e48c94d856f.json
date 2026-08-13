@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a48728f6-1855-4b1a-a59c-2e48c94d856f",
+  "path": "trellis-channel",
+  "path_key": "trellis-channel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

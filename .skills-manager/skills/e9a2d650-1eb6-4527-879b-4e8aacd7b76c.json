@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9a2d650-1eb6-4527-879b-4e8aacd7b76c",
+  "path": "trellis-meta",
+  "path_key": "trellis-meta",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
