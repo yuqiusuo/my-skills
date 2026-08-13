@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b43739c6-7b65-41ab-ae20-d19fbe982ce0",
+  "path": "adhd-friendly-output",
+  "path_key": "adhd-friendly-output",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

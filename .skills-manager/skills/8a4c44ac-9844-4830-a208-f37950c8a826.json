@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a4c44ac-9844-4830-a208-f37950c8a826",
+  "path": "ai-feature-architect",
+  "path_key": "ai-feature-architect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

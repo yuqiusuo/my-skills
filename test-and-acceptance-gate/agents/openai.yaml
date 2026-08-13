@@ -1,0 +1,4 @@
+interface:
+  display_name: "Test and Acceptance Gate"
+  short_description: "Verify each module with practical acceptance checks."
+  default_prompt: "Use this skill before considering a feature complete."

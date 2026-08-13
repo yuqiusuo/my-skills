@@ -1,0 +1,4 @@
+interface:
+  display_name: "Demo and Review Prep"
+  short_description: "Prepare demo and review materials."
+  default_prompt: "Use this skill to prepare the 30-minute demo and final review materials."

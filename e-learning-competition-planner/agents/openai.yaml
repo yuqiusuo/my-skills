@@ -1,0 +1,4 @@
+interface:
+  display_name: "E-Learning Competition Planner"
+  short_description: "Plan the competition delivery for the AI online training system."
+  default_prompt: "Use this skill to plan scope, priorities, schedule, and competition deliverables for the online training management system."

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b28b832-7636-4a66-a017-3fe5e811d82d",
+  "path": "frontend-slides",
+  "path_key": "frontend-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1370a9f-b9df-47e3-992d-d1daa82e6bef",
+  "path": "exam-drill",
+  "path_key": "exam-drill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

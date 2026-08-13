@@ -1,0 +1,4 @@
+interface:
+  display_name: "E-Learning Doc Recorder"
+  short_description: "Keep project documents and evidence complete during development."
+  default_prompt: "Use this skill to create and update docs for each feature, API, test, AI usage record, and delivery artifact."
