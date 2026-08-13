@@ -3,5 +3,9 @@
   "scenario_id": "98181c59-2ff5-40b1-8216-537d3a2a4bb5",
   "skill_id": "6cc57403-d0ab-4a81-bc43-fc5191bc8b8c",
   "sort_order": 0,
-  "tools": {}
+  "tools": {
+    "claude_code": true,
+    "codex": true,
+    "kimi": true
+  }
 }
