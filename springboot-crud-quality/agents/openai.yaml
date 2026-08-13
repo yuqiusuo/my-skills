@@ -1,4 +1,0 @@
-interface:
-  display_name: "Spring Boot CRUD Quality"
-  short_description: "Keep backend CRUD APIs consistent."
-  default_prompt: "Use this skill when implementing backend Spring Boot modules."

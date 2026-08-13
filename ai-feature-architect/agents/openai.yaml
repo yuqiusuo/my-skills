@@ -1,4 +1,0 @@
-interface:
-  display_name: "AI Feature Architect"
-  short_description: "Design reliable real AI features."
-  default_prompt: "Use this skill when implementing real AI API features."
