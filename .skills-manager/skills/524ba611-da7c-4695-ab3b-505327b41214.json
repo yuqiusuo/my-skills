@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "524ba611-da7c-4695-ab3b-505327b41214",
+  "path": "grill-with-docs",
+  "path_key": "grill-with-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "mattpocock/skills/grill-with-docs",
+    "subpath": "skills\\engineering\\grill-with-docs",
+    "branch": null
+  }
+}
