@@ -6,6 +6,8 @@
   "tools": {
     "claude_code": true,
     "codex": true,
-    "kimi": true
+    "github_copilot": true,
+    "kimi": true,
+    "zcode": true
   }
 }
