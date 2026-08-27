@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "87a4cf82-b3fb-4730-b0e8-0682984b4593",
+  "path": "image-to-code",
+  "path_key": "image-to-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "leonxlnx/taste-skill/image-to-code",
+    "subpath": "skills\\image-to-code-skill",
+    "branch": null
+  }
+}

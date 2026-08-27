@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ded474ab-7766-430f-a895-1ab10066a14e",
+  "path": "gpt-taste",
+  "path_key": "gpt-taste",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "leonxlnx/taste-skill/gpt-taste",
+    "subpath": "skills\\gpt-tasteskill",
+    "branch": null
+  }
+}
